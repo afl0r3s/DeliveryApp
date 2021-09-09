@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Objetivo
+
+Crear una applicacion para empresa que realiza la venta de alimentos via Delivery
+
 ## Pasos inciales
 
 Forkear este respositorio e instalar las dependencias necesarias con el comando "npm install"

@@ -2,6 +2,26 @@
   font-size: 1.6rem;
 }
 
+.menuContent{
+  background-color: white;
+  display: flex;
+  justify-content:flex-start;
+}
+
+.menuItem{
+  height: 40px;
+  border: 0px solid rgb(202, 194, 194);
+  width: 150px;
+}
+
+.menuItem:hover{
+  border-bottom: 4px solid rgb(38, 35, 187);
+}
+
+
+
+
+
 .prodContent{
   width: 840px;
   height: 113px;
@@ -51,6 +71,9 @@
 }
 
 @media (max-width: 860px) {
+  .prodContent{
+    width: 580px;
+  }
   .prodInfo{
     min-width: 300px;
   }

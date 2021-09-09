@@ -53,9 +53,9 @@ export default function Menu() {
 
 	return (
 		<div>
-			<div className="w3-bar w3-black">
+			<div className="menuContent">
 				{CategoryInfo.map((e) => (
-					<button key={e.id} className="w3-bar-item w3-button" onClick={() => openCity(`${e.name}`)}>
+					<button key={e.id} className="menuItem" onClick={() => openCity(`${e.name}`)}>
 						{e.name}
 					</button>
 				))}

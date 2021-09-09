@@ -33,5 +33,5 @@ Se uso la informacion proporcionada en el archivo JSON para renderizar la inform
 ### Capturas de pantalla
 
 <p align="left">
-  <img height="200" src="./deliverApp" />
+  <img height="200" src="./deliverApp.jpg" />
 </p>

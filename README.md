@@ -29,3 +29,9 @@ Tambien se uso framework CSS para algunos componentes.
 ### Data
 
 Se uso la informacion proporcionada en el archivo JSON para renderizar la informacion de cada producto
+
+### Capturas de pantalla
+
+<p align="left">
+  <img height="200" src="./deliverApp" />
+</p>

@@ -21,3 +21,7 @@ Abrir [http://localhost:3000](http://localhost:3000) en cualquier navegador web
 Se uso diseño responsivo para adpdatase a pantalla mas pequeñas que las de una laptop o computadora de escritorio
 
 Tambien se uso framework CSS para algunos componentes.
+
+### Data
+
+Se uso la informacion proporcionada en el archivo JSON para renderizar la informacion de cada producto
